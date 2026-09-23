@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D结构图档评审"
+  short_description: "使用本机三维软件核对配置、检查结构与注塑风险并交付可追溯评审报告"
+  default_prompt: "使用 $3d-structure-review，结合配置表和本机3D软件评审指定结构图档，按需分析注塑、受力和可靠性，并输出可编辑报告。"
