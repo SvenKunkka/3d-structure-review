@@ -1,5 +1,7 @@
 # 3D 结构图档评审 Skill
 
+语言 / Language：[简体中文](README.md) · [English](README_EN.md)
+
 一个可复用的 Codex Skill：结合产品配置与本机 CAD，对 STEP/STP 或原生装配进行结构、开模前和注塑风险评审，并交付可追溯的报告与问题关闭清单。受力仿真、成品可靠性分析按用户当次要求启用。
 
 **A Codex Skill for evidence-based structural and pre-tooling review of native CAD and STEP/STP assemblies.** Injection analysis, simulation, and reliability are selected according to the current request.
