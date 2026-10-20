@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # 3D 结构图档评审 Skill
 
 语言 / Language：[简体中文](README.md) · [English](README_EN.md)
@@ -54,3 +58,30 @@ python3 scripts/source_guard.py verify --manifest review/evidence/input_manifest
 本 Skill 提炼自一次实际 CAD 结构及注塑评审，但不包含该产品的图档、配置表、面号、测量结果或私有报告。项目结论必须从当次输入重新核验。
 
 许可证：[MIT](LICENSE)。
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+结合配置表与本机 CAD，对 STEP/STP 和原生装配开展结构、开模前及注塑风险评审的 Codex Skill，输出可追溯的报告与问题关闭清单。
+
+**使用入口：** 将完整仓库放入 Codex skills 目录，从 [SKILL.md](SKILL.md) 开始，并使用 `$3d-structure-review` 调用。
+
+**范围说明：** 几何检查不能代替模流、实物测试或量产签核；仿真与可靠性分析按当次要求开展。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A Codex Skill for reviewing STEP/STP and native assemblies against requirements in local CAD, producing traceable structural, pre-tooling and injection-molding risk reports and issue-closure lists.
+
+**Getting started:** Place the complete repository in the Codex skills directory, start with [SKILL.md](SKILL.md), and invoke `$3d-structure-review`.
+
+**Scope:** Geometry checks do not replace mold-flow analysis, physical tests or production approval. Simulation and reliability analysis are included only when requested.
+
+**仓库维护者 / Repository maintainer:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->

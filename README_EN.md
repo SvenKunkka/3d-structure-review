@@ -55,3 +55,10 @@ This tool only checks whether file bytes have changed. CAD import, geometry meas
 This Skill was distilled from a real structural and injection-molding review. It does not contain that product's CAD files, requirements, face IDs, measurements, or private reports. Findings for a new project must be verified against that project's current inputs.
 
 Licensed under [MIT](LICENSE).
+
+
+<!-- SVENKUNKKA-CONTACT:BEGIN -->
+
+**仓库维护者 / Repository maintainer:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+<!-- SVENKUNKKA-CONTACT:END -->
